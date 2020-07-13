@@ -1,3 +1,21 @@
+Package: com.rileytestut.altstore.alpha.jailbroken
+Section: Tweaks
+Maintainer: Riley Testut
+Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
+Depends: com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.4a4
+Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
+Size: 3265708
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore (ALPHA)
+Icon: https://pwnders.github.io/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
+Author: Riley Testut - T7Y
+MD5sum: 09d405b45df34fc6c4ac04c6443d8e29
+SHA1: fb82f4eea5b7f77e63a74a6eae8f2149a82dd05d
+SHA256: 14545ac56fc41bc64763d1da0f291851b72832f0f793eb213bae3539af7584c3
+Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
