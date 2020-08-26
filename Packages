@@ -1,21 +1,3 @@
-Package: com.rileytestut.altstore.alpha.jailbroken
-Section: Tweaks
-Maintainer: Riley Testut
-Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
-Depends: com.rileytestut.altdaemon
-Architecture: iphoneos-arm
-Version: 1.4a4
-Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
-Size: 3265708
-Description: Jailbroken version of AltStore with on device signing feauture.
-Name: AltStore (ALPHA)
-Icon: https://pwnders.github.io/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
-Author: Riley Testut - T7Y
-MD5sum: 09d405b45df34fc6c4ac04c6443d8e29
-SHA1: fb82f4eea5b7f77e63a74a6eae8f2149a82dd05d
-SHA256: 14545ac56fc41bc64763d1da0f291851b72832f0f793eb213bae3539af7584c3
-Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
-
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
@@ -29,18 +11,4 @@ Description: This is a sample new package. Firmware should be greater than 7.0ïŒ
 Name: New Package
 Author: King <thekingrui@dingtalk.com>
 Depiction: https://kingrui380.github.io/repo/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://kingrui380.github.io/repo/depictions/?p=com.supermamon.oldpackage
-
+SileoDepiction: https://repo.dynastic.co/sileo-depiction/68292503631036416/
